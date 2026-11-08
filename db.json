@@ -1,0 +1,3023 @@
+{
+  "stats": [
+    {
+      "id": 1,
+      "value": "48",
+      "label": "Properties Managed"
+    },
+    {
+      "id": 2,
+      "value": "90M",
+      "label": "Total Managed Investments"
+    },
+    {
+      "id": 3,
+      "value": "500",
+      "label": "Happy Clients"
+    },
+    {
+      "id": 4,
+      "value": "99%",
+      "label": "Client Satisfaction"
+    }
+  ],
+  "featuredProperties": [
+    {
+      "id": 1,
+      "title": "Palm Hills Office No.3",
+      "image": "/images/palm-hills.png"
+    },
+    {
+      "id": 2,
+      "title": "Hacienda Duplex No.4",
+      "image": "/images/hacienda-duplex.png"
+    },
+    {
+      "id": 3,
+      "title": "Sawary Family Villa",
+      "image": "/images/sawary-villa.png"
+    }
+  ],
+  "futureLandmarks": [
+    {
+      "id": 1,
+      "name": "Palm Hills",
+      "location": "New Cairo",
+      "image": "/images/palm-hills-project.png",
+      "developer": "Palm Hills Developments",
+      "details": {
+        "heading": "Palm Hills Project",
+        "propertyTitle": "Palm Hills",
+        "location": "New Cairo",
+        "images": [
+          "/images/palm-hills-project.png"
+        ],
+        "facts": [
+          {
+            "label": "Developer",
+            "value": "Palm Hills Developments"
+          }
+        ],
+        "overview": "Additional project information is not available yet."
+      }
+    },
+    {
+      "id": 2,
+      "name": "Hayah City",
+      "location": "New Cairo",
+      "image": "/images/hayah-city-project.png",
+      "developer": "Hayah Development",
+      "details": {
+        "heading": "Hayah City Project",
+        "propertyTitle": "Hayah City",
+        "location": "New Cairo",
+        "images": [
+          "/images/hayah-city-project.png"
+        ],
+        "facts": [
+          {
+            "label": "Developer",
+            "value": "Hayah Development"
+          }
+        ],
+        "overview": "Additional project information is not available yet."
+      }
+    },
+    {
+      "id": 3,
+      "name": "Palm Hills",
+      "location": "New Cairo",
+      "image": "/images/palm-hills-project.png",
+      "developer": "Palm Hills Developments",
+      "details": {
+        "heading": "Palm Hills Project",
+        "propertyTitle": "Palm Hills",
+        "location": "New Cairo",
+        "images": [
+          "/images/palm-hills-project.png"
+        ],
+        "facts": [
+          {
+            "label": "Developer",
+            "value": "Palm Hills Developments"
+          }
+        ],
+        "overview": "Additional project information is not available yet."
+      }
+    }
+  ],
+  "units": [
+    {
+      "id": 1,
+      "title": "Sawary Family Villa",
+      "image": "/images/sawary-villa.png",
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "area": 120,
+      "price": 50000,
+      "status": "Available",
+      "developer": "Sawary Developments",
+      "zone": "Alexandria",
+      "project": "Sawary",
+      "description": "Experience the true meaning of modern living in this luxurious apartment featuring spacious rooms, elegant finishes, and breathtaking views."
+    },
+    {
+      "id": 2,
+      "title": "Hacienda Duplex No.4",
+      "image": "/images/hacienda-duplex.png",
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "area": 175,
+      "price": 85000,
+      "status": "Available",
+      "developer": "Palm Hills Developments",
+      "zone": "North Coast",
+      "project": "Hacienda",
+      "description": "A beautiful duplex featuring modern architecture, elegant finishes and spacious living areas."
+    },
+    {
+      "id": 3,
+      "title": "Palm Hills Residence",
+      "image": "/images/palm-hills.png",
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "area": 140,
+      "price": 65000,
+      "status": "Available",
+      "developer": "Palm Hills Developments",
+      "zone": "New Cairo",
+      "project": "Palm Hills",
+      "description": "An elegant residence featuring spacious rooms and a comfortable modern living experience."
+    },
+    {
+      "id": 4,
+      "title": "Sawary Garden Apartment",
+      "image": "/images/sawary-villa.png",
+      "bedrooms": 2,
+      "bathrooms": 1,
+      "area": 100,
+      "price": 43000,
+      "status": "Sold",
+      "developer": "Sawary Developments",
+      "zone": "Alexandria",
+      "project": "Sawary",
+      "description": "A modern property designed for comfort with bright interiors and beautiful surroundings."
+    },
+    {
+      "id": 5,
+      "title": "Hayah City Apartment",
+      "image": "/images/hayah-city-project.png",
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "area": 160,
+      "price": 72000,
+      "status": "Available",
+      "developer": "Hayah Development",
+      "zone": "New Cairo",
+      "project": "Hayah City",
+      "description": "A modern apartment combining functional design with comfortable living spaces."
+    },
+    {
+      "id": 6,
+      "title": "Palm Hills Family Villa",
+      "image": "/images/palm-hills-project.png",
+      "bedrooms": 4,
+      "bathrooms": 3,
+      "area": 240,
+      "price": 120000,
+      "status": "Available",
+      "developer": "Palm Hills Developments",
+      "zone": "New Cairo",
+      "project": "Palm Hills",
+      "description": "A spacious family villa offering contemporary architecture and elegant indoor living."
+    },
+    {
+      "id": 7,
+      "title": "Hacienda Garden Studio",
+      "image": "/images/hacienda-duplex.png",
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area": 70,
+      "price": 30000,
+      "status": "Available",
+      "developer": "Palm Hills Developments",
+      "zone": "North Coast",
+      "project": "Hacienda",
+      "description": "A comfortable studio with an efficient layout and bright contemporary finishes."
+    },
+    {
+      "id": 8,
+      "title": "Sawary Sea View Duplex",
+      "image": "/images/sawary-villa.png",
+      "bedrooms": 3,
+      "bathrooms": 3,
+      "area": 210,
+      "price": 98000,
+      "status": "Reserved",
+      "developer": "Sawary Developments",
+      "zone": "Alexandria",
+      "project": "Sawary",
+      "description": "A stylish duplex offering spacious interiors and an exceptional living environment."
+    },
+    {
+      "id": 9,
+      "title": "Hayah City Penthouse",
+      "image": "/images/hayah-city-project.png",
+      "bedrooms": 4,
+      "bathrooms": 3,
+      "area": 220,
+      "price": 140000,
+      "status": "Available",
+      "developer": "Hayah Development",
+      "zone": "New Cairo",
+      "project": "Hayah City",
+      "description": "A premium penthouse featuring generous living areas, natural light and modern finishes."
+    }
+  ],
+  "zones": [
+    {
+      "id": 1,
+      "name": "Cairo",
+      "image": "/images/zone-cairo-1.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Cairo",
+      "image": "/images/zone-cairo-2.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Cairo",
+      "image": "/images/zone-cairo-3.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Cairo",
+      "image": "/images/zone-cairo-4.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Cairo",
+      "image": "/images/zone-cairo-1.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Cairo",
+      "image": "/images/zone-cairo-2.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Cairo",
+      "image": "/images/zone-cairo-3.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Cairo",
+      "image": "/images/zone-cairo-4.jpg"
+    }
+  ],
+  "zoneProjects": [
+    {
+      "id": 101,
+      "zoneId": 1,
+      "title": "Sawary Family Villa",
+      "image": "/images/zone-project-card.png",
+      "units": 50,
+      "gyms": 7,
+      "area": "15,000m",
+      "description": "Experience the true meaning of modern living in this luxurious apartment featuring spacious rooms, elegant finishes, and breathtaking views.",
+      "details": {
+        "images": [
+          "/images/project-details-main.jpg",
+          "/images/project-details-room.jpg",
+          "/images/project-details-lounge.jpg",
+          "/images/project-details-kitchen.jpg",
+          "/images/project-details-bath.jpg",
+          "/images/project-details-seaview.jpg"
+        ],
+        "propertyTitle": "Splendid historic Art Nouveau villa",
+        "location": "Minusio, Lake Maggiore, Switzerland — ref. LOC1771",
+        "facts": [
+          {
+            "label": "Plot size ca.",
+            "value": "589 m²"
+          },
+          {
+            "label": "Living area ca.",
+            "value": "300 m²"
+          },
+          {
+            "label": "Units",
+            "value": "3000"
+          },
+          {
+            "label": "Man made Lakes",
+            "value": "3"
+          },
+          {
+            "label": "Playground",
+            "value": "8"
+          },
+          {
+            "label": "Public gyms",
+            "value": "20"
+          },
+          {
+            "label": "Schools",
+            "value": "50"
+          }
+        ],
+        "overview": "Nestled in a residential area of Minusio, this magnificent historic villa is for sale, fully renovated and ready to move in. The spacious living areas, flooded with natural light thanks to perfect sun exposure, create a unique and welcoming atmosphere. A well-maintained, low-maintenance garden provides the ideal setting for enjoying outdoor gatherings. Its proximity to essential services and public transport also makes the villa an ideal choice for families.",
+        "heading": "Sawary Family Villa Project"
+      }
+    },
+    {
+      "id": 102,
+      "zoneId": 1,
+      "title": "Sawary Family Villa",
+      "image": "/images/zone-project-card.png",
+      "units": 50,
+      "gyms": 7,
+      "area": "15,000m",
+      "description": "Experience the true meaning of modern living in this luxurious apartment featuring spacious rooms, elegant finishes, and breathtaking views.",
+      "details": {
+        "images": [
+          "/images/project-details-main.jpg",
+          "/images/project-details-room.jpg",
+          "/images/project-details-lounge.jpg",
+          "/images/project-details-kitchen.jpg",
+          "/images/project-details-bath.jpg",
+          "/images/project-details-seaview.jpg"
+        ],
+        "propertyTitle": "Splendid historic Art Nouveau villa",
+        "location": "Minusio, Lake Maggiore, Switzerland — ref. LOC1771",
+        "facts": [
+          {
+            "label": "Plot size ca.",
+            "value": "589 m²"
+          },
+          {
+            "label": "Living area ca.",
+            "value": "300 m²"
+          },
+          {
+            "label": "Units",
+            "value": "3000"
+          },
+          {
+            "label": "Man made Lakes",
+            "value": "3"
+          },
+          {
+            "label": "Playground",
+            "value": "8"
+          },
+          {
+            "label": "Public gyms",
+            "value": "20"
+          },
+          {
+            "label": "Schools",
+            "value": "50"
+          }
+        ],
+        "overview": "Nestled in a residential area of Minusio, this magnificent historic villa is for sale, fully renovated and ready to move in. The spacious living areas, flooded with natural light thanks to perfect sun exposure, create a unique and welcoming atmosphere. A well-maintained, low-maintenance garden provides the ideal setting for enjoying outdoor gatherings. Its proximity to essential services and public transport also makes the villa an ideal choice for families.",
+        "heading": "Sawary Family Villa Project"
+      }
+    },
+    {
+      "id": 103,
+      "zoneId": 1,
+      "title": "Sawary Family Villa",
+      "image": "/images/zone-project-card.png",
+      "units": 50,
+      "gyms": 7,
+      "area": "15,000m",
+      "description": "Experience the true meaning of modern living in this luxurious apartment featuring spacious rooms, elegant finishes, and breathtaking views.",
+      "details": {
+        "images": [
+          "/images/project-details-main.jpg",
+          "/images/project-details-room.jpg",
+          "/images/project-details-lounge.jpg",
+          "/images/project-details-kitchen.jpg",
+          "/images/project-details-bath.jpg",
+          "/images/project-details-seaview.jpg"
+        ],
+        "propertyTitle": "Splendid historic Art Nouveau villa",
+        "location": "Minusio, Lake Maggiore, Switzerland — ref. LOC1771",
+        "facts": [
+          {
+            "label": "Plot size ca.",
+            "value": "589 m²"
+          },
+          {
+            "label": "Living area ca.",
+            "value": "300 m²"
+          },
+          {
+            "label": "Units",
+            "value": "3000"
+          },
+          {
+            "label": "Man made Lakes",
+            "value": "3"
+          },
+          {
+            "label": "Playground",
+            "value": "8"
+          },
+          {
+            "label": "Public gyms",
+            "value": "20"
+          },
+          {
+            "label": "Schools",
+            "value": "50"
+          }
+        ],
+        "overview": "Nestled in a residential area of Minusio, this magnificent historic villa is for sale, fully renovated and ready to move in. The spacious living areas, flooded with natural light thanks to perfect sun exposure, create a unique and welcoming atmosphere. A well-maintained, low-maintenance garden provides the ideal setting for enjoying outdoor gatherings. Its proximity to essential services and public transport also makes the villa an ideal choice for families.",
+        "heading": "Sawary Family Villa Project"
+      }
+    },
+    {
+      "id": 104,
+      "zoneId": 1,
+      "title": "Sawary Family Villa",
+      "image": "/images/zone-project-card.png",
+      "units": 50,
+      "gyms": 7,
+      "area": "15,000m",
+      "description": "Experience the true meaning of modern living in this luxurious apartment featuring spacious rooms, elegant finishes, and breathtaking views.",
+      "details": {
+        "images": [
+          "/images/project-details-main.jpg",
+          "/images/project-details-room.jpg",
+          "/images/project-details-lounge.jpg",
+          "/images/project-details-kitchen.jpg",
+          "/images/project-details-bath.jpg",
+          "/images/project-details-seaview.jpg"
+        ],
+        "propertyTitle": "Splendid historic Art Nouveau villa",
+        "location": "Minusio, Lake Maggiore, Switzerland — ref. LOC1771",
+        "facts": [
+          {
+            "label": "Plot size ca.",
+            "value": "589 m²"
+          },
+          {
+            "label": "Living area ca.",
+            "value": "300 m²"
+          },
+          {
+            "label": "Units",
+            "value": "3000"
+          },
+          {
+            "label": "Man made Lakes",
+            "value": "3"
+          },
+          {
+            "label": "Playground",
+            "value": "8"
+          },
+          {
+            "label": "Public gyms",
+            "value": "20"
+          },
+          {
+            "label": "Schools",
+            "value": "50"
+          }
+        ],
+        "overview": "Nestled in a residential area of Minusio, this magnificent historic villa is for sale, fully renovated and ready to move in. The spacious living areas, flooded with natural light thanks to perfect sun exposure, create a unique and welcoming atmosphere. A well-maintained, low-maintenance garden provides the ideal setting for enjoying outdoor gatherings. Its proximity to essential services and public transport also makes the villa an ideal choice for families.",
+        "heading": "Sawary Family Villa Project"
+      }
+    },
+    {
+      "id": 105,
+      "zoneId": 1,
+      "title": "Sawary Family Villa",
+      "image": "/images/zone-project-card.png",
+      "units": 50,
+      "gyms": 7,
+      "area": "15,000m",
+      "description": "Experience the true meaning of modern living in this luxurious apartment featuring spacious rooms, elegant finishes, and breathtaking views.",
+      "details": {
+        "images": [
+          "/images/project-details-main.jpg",
+          "/images/project-details-room.jpg",
+          "/images/project-details-lounge.jpg",
+          "/images/project-details-kitchen.jpg",
+          "/images/project-details-bath.jpg",
+          "/images/project-details-seaview.jpg"
+        ],
+        "propertyTitle": "Splendid historic Art Nouveau villa",
+        "location": "Minusio, Lake Maggiore, Switzerland — ref. LOC1771",
+        "facts": [
+          {
+            "label": "Plot size ca.",
+            "value": "589 m²"
+          },
+          {
+            "label": "Living area ca.",
+            "value": "300 m²"
+          },
+          {
+            "label": "Units",
+            "value": "3000"
+          },
+          {
+            "label": "Man made Lakes",
+            "value": "3"
+          },
+          {
+            "label": "Playground",
+            "value": "8"
+          },
+          {
+            "label": "Public gyms",
+            "value": "20"
+          },
+          {
+            "label": "Schools",
+            "value": "50"
+          }
+        ],
+        "overview": "Nestled in a residential area of Minusio, this magnificent historic villa is for sale, fully renovated and ready to move in. The spacious living areas, flooded with natural light thanks to perfect sun exposure, create a unique and welcoming atmosphere. A well-maintained, low-maintenance garden provides the ideal setting for enjoying outdoor gatherings. Its proximity to essential services and public transport also makes the villa an ideal choice for families.",
+        "heading": "Sawary Family Villa Project"
+      }
+    },
+    {
+      "id": 201,
+      "zoneId": 2,
+      "title": "Sawary Family Villa",
+      "image": "/images/zone-project-card.png",
+      "units": 50,
+      "gyms": 7,
+      "area": "15,000m",
+      "description": "Experience the true meaning of modern living in this luxurious apartment featuring spacious rooms, elegant finishes, and breathtaking views.",
+      "details": {
+        "images": [
+          "/images/project-details-main.jpg",
+          "/images/project-details-room.jpg",
+          "/images/project-details-lounge.jpg",
+          "/images/project-details-kitchen.jpg",
+          "/images/project-details-bath.jpg",
+          "/images/project-details-seaview.jpg"
+        ],
+        "propertyTitle": "Splendid historic Art Nouveau villa",
+        "location": "Minusio, Lake Maggiore, Switzerland — ref. LOC1771",
+        "facts": [
+          {
+            "label": "Plot size ca.",
+            "value": "589 m²"
+          },
+          {
+            "label": "Living area ca.",
+            "value": "300 m²"
+          },
+          {
+            "label": "Units",
+            "value": "3000"
+          },
+          {
+            "label": "Man made Lakes",
+            "value": "3"
+          },
+          {
+            "label": "Playground",
+            "value": "8"
+          },
+          {
+            "label": "Public gyms",
+            "value": "20"
+          },
+          {
+            "label": "Schools",
+            "value": "50"
+          }
+        ],
+        "overview": "Nestled in a residential area of Minusio, this magnificent historic villa is for sale, fully renovated and ready to move in. The spacious living areas, flooded with natural light thanks to perfect sun exposure, create a unique and welcoming atmosphere. A well-maintained, low-maintenance garden provides the ideal setting for enjoying outdoor gatherings. Its proximity to essential services and public transport also makes the villa an ideal choice for families.",
+        "heading": "Sawary Family Villa Project"
+      }
+    },
+    {
+      "id": 202,
+      "zoneId": 2,
+      "title": "Sawary Family Villa",
+      "image": "/images/zone-project-card.png",
+      "units": 50,
+      "gyms": 7,
+      "area": "15,000m",
+      "description": "Experience the true meaning of modern living in this luxurious apartment featuring spacious rooms, elegant finishes, and breathtaking views.",
+      "details": {
+        "images": [
+          "/images/project-details-main.jpg",
+          "/images/project-details-room.jpg",
+          "/images/project-details-lounge.jpg",
+          "/images/project-details-kitchen.jpg",
+          "/images/project-details-bath.jpg",
+          "/images/project-details-seaview.jpg"
+        ],
+        "propertyTitle": "Splendid historic Art Nouveau villa",
+        "location": "Minusio, Lake Maggiore, Switzerland — ref. LOC1771",
+        "facts": [
+          {
+            "label": "Plot size ca.",
+            "value": "589 m²"
+          },
+          {
+            "label": "Living area ca.",
+            "value": "300 m²"
+          },
+          {
+            "label": "Units",
+            "value": "3000"
+          },
+          {
+            "label": "Man made Lakes",
+            "value": "3"
+          },
+          {
+            "label": "Playground",
+            "value": "8"
+          },
+          {
+            "label": "Public gyms",
+            "value": "20"
+          },
+          {
+            "label": "Schools",
+            "value": "50"
+          }
+        ],
+        "overview": "Nestled in a residential area of Minusio, this magnificent historic villa is for sale, fully renovated and ready to move in. The spacious living areas, flooded with natural light thanks to perfect sun exposure, create a unique and welcoming atmosphere. A well-maintained, low-maintenance garden provides the ideal setting for enjoying outdoor gatherings. Its proximity to essential services and public transport also makes the villa an ideal choice for families.",
+        "heading": "Sawary Family Villa Project"
+      }
+    },
+    {
+      "id": 203,
+      "zoneId": 2,
+      "title": "Sawary Family Villa",
+      "image": "/images/zone-project-card.png",
+      "units": 50,
+      "gyms": 7,
+      "area": "15,000m",
+      "description": "Experience the true meaning of modern living in this luxurious apartment featuring spacious rooms, elegant finishes, and breathtaking views.",
+      "details": {
+        "images": [
+          "/images/project-details-main.jpg",
+          "/images/project-details-room.jpg",
+          "/images/project-details-lounge.jpg",
+          "/images/project-details-kitchen.jpg",
+          "/images/project-details-bath.jpg",
+          "/images/project-details-seaview.jpg"
+        ],
+        "propertyTitle": "Splendid historic Art Nouveau villa",
+        "location": "Minusio, Lake Maggiore, Switzerland — ref. LOC1771",
+        "facts": [
+          {
+            "label": "Plot size ca.",
+            "value": "589 m²"
+          },
+          {
+            "label": "Living area ca.",
+            "value": "300 m²"
+          },
+          {
+            "label": "Units",
+            "value": "3000"
+          },
+          {
+            "label": "Man made Lakes",
+            "value": "3"
+          },
+          {
+            "label": "Playground",
+            "value": "8"
+          },
+          {
+            "label": "Public gyms",
+            "value": "20"
+          },
+          {
+            "label": "Schools",
+            "value": "50"
+          }
+        ],
+        "overview": "Nestled in a residential area of Minusio, this magnificent historic villa is for sale, fully renovated and ready to move in. The spacious living areas, flooded with natural light thanks to perfect sun exposure, create a unique and welcoming atmosphere. A well-maintained, low-maintenance garden provides the ideal setting for enjoying outdoor gatherings. Its proximity to essential services and public transport also makes the villa an ideal choice for families.",
+        "heading": "Sawary Family Villa Project"
+      }
+    },
+    {
+      "id": 204,
+      "zoneId": 2,
+      "title": "Sawary Family Villa",
+      "image": "/images/zone-project-card.png",
+      "units": 50,
+      "gyms": 7,
+      "area": "15,000m",
+      "description": "Experience the true meaning of modern living in this luxurious apartment featuring spacious rooms, elegant finishes, and breathtaking views.",
+      "details": {
+        "images": [
+          "/images/project-details-main.jpg",
+          "/images/project-details-room.jpg",
+          "/images/project-details-lounge.jpg",
+          "/images/project-details-kitchen.jpg",
+          "/images/project-details-bath.jpg",
+          "/images/project-details-seaview.jpg"
+        ],
+        "propertyTitle": "Splendid historic Art Nouveau villa",
+        "location": "Minusio, Lake Maggiore, Switzerland — ref. LOC1771",
+        "facts": [
+          {
+            "label": "Plot size ca.",
+            "value": "589 m²"
+          },
+          {
+            "label": "Living area ca.",
+            "value": "300 m²"
+          },
+          {
+            "label": "Units",
+            "value": "3000"
+          },
+          {
+            "label": "Man made Lakes",
+            "value": "3"
+          },
+          {
+            "label": "Playground",
+            "value": "8"
+          },
+          {
+            "label": "Public gyms",
+            "value": "20"
+          },
+          {
+            "label": "Schools",
+            "value": "50"
+          }
+        ],
+        "overview": "Nestled in a residential area of Minusio, this magnificent historic villa is for sale, fully renovated and ready to move in. The spacious living areas, flooded with natural light thanks to perfect sun exposure, create a unique and welcoming atmosphere. A well-maintained, low-maintenance garden provides the ideal setting for enjoying outdoor gatherings. Its proximity to essential services and public transport also makes the villa an ideal choice for families.",
+        "heading": "Sawary Family Villa Project"
+      }
+    },
+    {
+      "id": 205,
+      "zoneId": 2,
+      "title": "Sawary Family Villa",
+      "image": "/images/zone-project-card.png",
+      "units": 50,
+      "gyms": 7,
+      "area": "15,000m",
+      "description": "Experience the true meaning of modern living in this luxurious apartment featuring spacious rooms, elegant finishes, and breathtaking views.",
+      "details": {
+        "images": [
+          "/images/project-details-main.jpg",
+          "/images/project-details-room.jpg",
+          "/images/project-details-lounge.jpg",
+          "/images/project-details-kitchen.jpg",
+          "/images/project-details-bath.jpg",
+          "/images/project-details-seaview.jpg"
+        ],
+        "propertyTitle": "Splendid historic Art Nouveau villa",
+        "location": "Minusio, Lake Maggiore, Switzerland — ref. LOC1771",
+        "facts": [
+          {
+            "label": "Plot size ca.",
+            "value": "589 m²"
+          },
+          {
+            "label": "Living area ca.",
+            "value": "300 m²"
+          },
+          {
+            "label": "Units",
+            "value": "3000"
+          },
+          {
+            "label": "Man made Lakes",
+            "value": "3"
+          },
+          {
+            "label": "Playground",
+            "value": "8"
+          },
+          {
+            "label": "Public gyms",
+            "value": "20"
+          },
+          {
+            "label": "Schools",
+            "value": "50"
+          }
+        ],
+        "overview": "Nestled in a residential area of Minusio, this magnificent historic villa is for sale, fully renovated and ready to move in. The spacious living areas, flooded with natural light thanks to perfect sun exposure, create a unique and welcoming atmosphere. A well-maintained, low-maintenance garden provides the ideal setting for enjoying outdoor gatherings. Its proximity to essential services and public transport also makes the villa an ideal choice for families.",
+        "heading": "Sawary Family Villa Project"
+      }
+    },
+    {
+      "id": 301,
+      "zoneId": 3,
+      "title": "Sawary Family Villa",
+      "image": "/images/zone-project-card.png",
+      "units": 50,
+      "gyms": 7,
+      "area": "15,000m",
+      "description": "Experience the true meaning of modern living in this luxurious apartment featuring spacious rooms, elegant finishes, and breathtaking views.",
+      "details": {
+        "images": [
+          "/images/project-details-main.jpg",
+          "/images/project-details-room.jpg",
+          "/images/project-details-lounge.jpg",
+          "/images/project-details-kitchen.jpg",
+          "/images/project-details-bath.jpg",
+          "/images/project-details-seaview.jpg"
+        ],
+        "propertyTitle": "Splendid historic Art Nouveau villa",
+        "location": "Minusio, Lake Maggiore, Switzerland — ref. LOC1771",
+        "facts": [
+          {
+            "label": "Plot size ca.",
+            "value": "589 m²"
+          },
+          {
+            "label": "Living area ca.",
+            "value": "300 m²"
+          },
+          {
+            "label": "Units",
+            "value": "3000"
+          },
+          {
+            "label": "Man made Lakes",
+            "value": "3"
+          },
+          {
+            "label": "Playground",
+            "value": "8"
+          },
+          {
+            "label": "Public gyms",
+            "value": "20"
+          },
+          {
+            "label": "Schools",
+            "value": "50"
+          }
+        ],
+        "overview": "Nestled in a residential area of Minusio, this magnificent historic villa is for sale, fully renovated and ready to move in. The spacious living areas, flooded with natural light thanks to perfect sun exposure, create a unique and welcoming atmosphere. A well-maintained, low-maintenance garden provides the ideal setting for enjoying outdoor gatherings. Its proximity to essential services and public transport also makes the villa an ideal choice for families.",
+        "heading": "Sawary Family Villa Project"
+      }
+    },
+    {
+      "id": 302,
+      "zoneId": 3,
+      "title": "Sawary Family Villa",
+      "image": "/images/zone-project-card.png",
+      "units": 50,
+      "gyms": 7,
+      "area": "15,000m",
+      "description": "Experience the true meaning of modern living in this luxurious apartment featuring spacious rooms, elegant finishes, and breathtaking views.",
+      "details": {
+        "images": [
+          "/images/project-details-main.jpg",
+          "/images/project-details-room.jpg",
+          "/images/project-details-lounge.jpg",
+          "/images/project-details-kitchen.jpg",
+          "/images/project-details-bath.jpg",
+          "/images/project-details-seaview.jpg"
+        ],
+        "propertyTitle": "Splendid historic Art Nouveau villa",
+        "location": "Minusio, Lake Maggiore, Switzerland — ref. LOC1771",
+        "facts": [
+          {
+            "label": "Plot size ca.",
+            "value": "589 m²"
+          },
+          {
+            "label": "Living area ca.",
+            "value": "300 m²"
+          },
+          {
+            "label": "Units",
+            "value": "3000"
+          },
+          {
+            "label": "Man made Lakes",
+            "value": "3"
+          },
+          {
+            "label": "Playground",
+            "value": "8"
+          },
+          {
+            "label": "Public gyms",
+            "value": "20"
+          },
+          {
+            "label": "Schools",
+            "value": "50"
+          }
+        ],
+        "overview": "Nestled in a residential area of Minusio, this magnificent historic villa is for sale, fully renovated and ready to move in. The spacious living areas, flooded with natural light thanks to perfect sun exposure, create a unique and welcoming atmosphere. A well-maintained, low-maintenance garden provides the ideal setting for enjoying outdoor gatherings. Its proximity to essential services and public transport also makes the villa an ideal choice for families.",
+        "heading": "Sawary Family Villa Project"
+      }
+    },
+    {
+      "id": 303,
+      "zoneId": 3,
+      "title": "Sawary Family Villa",
+      "image": "/images/zone-project-card.png",
+      "units": 50,
+      "gyms": 7,
+      "area": "15,000m",
+      "description": "Experience the true meaning of modern living in this luxurious apartment featuring spacious rooms, elegant finishes, and breathtaking views.",
+      "details": {
+        "images": [
+          "/images/project-details-main.jpg",
+          "/images/project-details-room.jpg",
+          "/images/project-details-lounge.jpg",
+          "/images/project-details-kitchen.jpg",
+          "/images/project-details-bath.jpg",
+          "/images/project-details-seaview.jpg"
+        ],
+        "propertyTitle": "Splendid historic Art Nouveau villa",
+        "location": "Minusio, Lake Maggiore, Switzerland — ref. LOC1771",
+        "facts": [
+          {
+            "label": "Plot size ca.",
+            "value": "589 m²"
+          },
+          {
+            "label": "Living area ca.",
+            "value": "300 m²"
+          },
+          {
+            "label": "Units",
+            "value": "3000"
+          },
+          {
+            "label": "Man made Lakes",
+            "value": "3"
+          },
+          {
+            "label": "Playground",
+            "value": "8"
+          },
+          {
+            "label": "Public gyms",
+            "value": "20"
+          },
+          {
+            "label": "Schools",
+            "value": "50"
+          }
+        ],
+        "overview": "Nestled in a residential area of Minusio, this magnificent historic villa is for sale, fully renovated and ready to move in. The spacious living areas, flooded with natural light thanks to perfect sun exposure, create a unique and welcoming atmosphere. A well-maintained, low-maintenance garden provides the ideal setting for enjoying outdoor gatherings. Its proximity to essential services and public transport also makes the villa an ideal choice for families.",
+        "heading": "Sawary Family Villa Project"
+      }
+    },
+    {
+      "id": 304,
+      "zoneId": 3,
+      "title": "Sawary Family Villa",
+      "image": "/images/zone-project-card.png",
+      "units": 50,
+      "gyms": 7,
+      "area": "15,000m",
+      "description": "Experience the true meaning of modern living in this luxurious apartment featuring spacious rooms, elegant finishes, and breathtaking views.",
+      "details": {
+        "images": [
+          "/images/project-details-main.jpg",
+          "/images/project-details-room.jpg",
+          "/images/project-details-lounge.jpg",
+          "/images/project-details-kitchen.jpg",
+          "/images/project-details-bath.jpg",
+          "/images/project-details-seaview.jpg"
+        ],
+        "propertyTitle": "Splendid historic Art Nouveau villa",
+        "location": "Minusio, Lake Maggiore, Switzerland — ref. LOC1771",
+        "facts": [
+          {
+            "label": "Plot size ca.",
+            "value": "589 m²"
+          },
+          {
+            "label": "Living area ca.",
+            "value": "300 m²"
+          },
+          {
+            "label": "Units",
+            "value": "3000"
+          },
+          {
+            "label": "Man made Lakes",
+            "value": "3"
+          },
+          {
+            "label": "Playground",
+            "value": "8"
+          },
+          {
+            "label": "Public gyms",
+            "value": "20"
+          },
+          {
+            "label": "Schools",
+            "value": "50"
+          }
+        ],
+        "overview": "Nestled in a residential area of Minusio, this magnificent historic villa is for sale, fully renovated and ready to move in. The spacious living areas, flooded with natural light thanks to perfect sun exposure, create a unique and welcoming atmosphere. A well-maintained, low-maintenance garden provides the ideal setting for enjoying outdoor gatherings. Its proximity to essential services and public transport also makes the villa an ideal choice for families.",
+        "heading": "Sawary Family Villa Project"
+      }
+    },
+    {
+      "id": 305,
+      "zoneId": 3,
+      "title": "Sawary Family Villa",
+      "image": "/images/zone-project-card.png",
+      "units": 50,
+      "gyms": 7,
+      "area": "15,000m",
+      "description": "Experience the true meaning of modern living in this luxurious apartment featuring spacious rooms, elegant finishes, and breathtaking views.",
+      "details": {
+        "images": [
+          "/images/project-details-main.jpg",
+          "/images/project-details-room.jpg",
+          "/images/project-details-lounge.jpg",
+          "/images/project-details-kitchen.jpg",
+          "/images/project-details-bath.jpg",
+          "/images/project-details-seaview.jpg"
+        ],
+        "propertyTitle": "Splendid historic Art Nouveau villa",
+        "location": "Minusio, Lake Maggiore, Switzerland — ref. LOC1771",
+        "facts": [
+          {
+            "label": "Plot size ca.",
+            "value": "589 m²"
+          },
+          {
+            "label": "Living area ca.",
+            "value": "300 m²"
+          },
+          {
+            "label": "Units",
+            "value": "3000"
+          },
+          {
+            "label": "Man made Lakes",
+            "value": "3"
+          },
+          {
+            "label": "Playground",
+            "value": "8"
+          },
+          {
+            "label": "Public gyms",
+            "value": "20"
+          },
+          {
+            "label": "Schools",
+            "value": "50"
+          }
+        ],
+        "overview": "Nestled in a residential area of Minusio, this magnificent historic villa is for sale, fully renovated and ready to move in. The spacious living areas, flooded with natural light thanks to perfect sun exposure, create a unique and welcoming atmosphere. A well-maintained, low-maintenance garden provides the ideal setting for enjoying outdoor gatherings. Its proximity to essential services and public transport also makes the villa an ideal choice for families.",
+        "heading": "Sawary Family Villa Project"
+      }
+    },
+    {
+      "id": 401,
+      "zoneId": 4,
+      "title": "Sawary Family Villa",
+      "image": "/images/zone-project-card.png",
+      "units": 50,
+      "gyms": 7,
+      "area": "15,000m",
+      "description": "Experience the true meaning of modern living in this luxurious apartment featuring spacious rooms, elegant finishes, and breathtaking views.",
+      "details": {
+        "images": [
+          "/images/project-details-main.jpg",
+          "/images/project-details-room.jpg",
+          "/images/project-details-lounge.jpg",
+          "/images/project-details-kitchen.jpg",
+          "/images/project-details-bath.jpg",
+          "/images/project-details-seaview.jpg"
+        ],
+        "propertyTitle": "Splendid historic Art Nouveau villa",
+        "location": "Minusio, Lake Maggiore, Switzerland — ref. LOC1771",
+        "facts": [
+          {
+            "label": "Plot size ca.",
+            "value": "589 m²"
+          },
+          {
+            "label": "Living area ca.",
+            "value": "300 m²"
+          },
+          {
+            "label": "Units",
+            "value": "3000"
+          },
+          {
+            "label": "Man made Lakes",
+            "value": "3"
+          },
+          {
+            "label": "Playground",
+            "value": "8"
+          },
+          {
+            "label": "Public gyms",
+            "value": "20"
+          },
+          {
+            "label": "Schools",
+            "value": "50"
+          }
+        ],
+        "overview": "Nestled in a residential area of Minusio, this magnificent historic villa is for sale, fully renovated and ready to move in. The spacious living areas, flooded with natural light thanks to perfect sun exposure, create a unique and welcoming atmosphere. A well-maintained, low-maintenance garden provides the ideal setting for enjoying outdoor gatherings. Its proximity to essential services and public transport also makes the villa an ideal choice for families.",
+        "heading": "Sawary Family Villa Project"
+      }
+    },
+    {
+      "id": 402,
+      "zoneId": 4,
+      "title": "Sawary Family Villa",
+      "image": "/images/zone-project-card.png",
+      "units": 50,
+      "gyms": 7,
+      "area": "15,000m",
+      "description": "Experience the true meaning of modern living in this luxurious apartment featuring spacious rooms, elegant finishes, and breathtaking views.",
+      "details": {
+        "images": [
+          "/images/project-details-main.jpg",
+          "/images/project-details-room.jpg",
+          "/images/project-details-lounge.jpg",
+          "/images/project-details-kitchen.jpg",
+          "/images/project-details-bath.jpg",
+          "/images/project-details-seaview.jpg"
+        ],
+        "propertyTitle": "Splendid historic Art Nouveau villa",
+        "location": "Minusio, Lake Maggiore, Switzerland — ref. LOC1771",
+        "facts": [
+          {
+            "label": "Plot size ca.",
+            "value": "589 m²"
+          },
+          {
+            "label": "Living area ca.",
+            "value": "300 m²"
+          },
+          {
+            "label": "Units",
+            "value": "3000"
+          },
+          {
+            "label": "Man made Lakes",
+            "value": "3"
+          },
+          {
+            "label": "Playground",
+            "value": "8"
+          },
+          {
+            "label": "Public gyms",
+            "value": "20"
+          },
+          {
+            "label": "Schools",
+            "value": "50"
+          }
+        ],
+        "overview": "Nestled in a residential area of Minusio, this magnificent historic villa is for sale, fully renovated and ready to move in. The spacious living areas, flooded with natural light thanks to perfect sun exposure, create a unique and welcoming atmosphere. A well-maintained, low-maintenance garden provides the ideal setting for enjoying outdoor gatherings. Its proximity to essential services and public transport also makes the villa an ideal choice for families.",
+        "heading": "Sawary Family Villa Project"
+      }
+    },
+    {
+      "id": 403,
+      "zoneId": 4,
+      "title": "Sawary Family Villa",
+      "image": "/images/zone-project-card.png",
+      "units": 50,
+      "gyms": 7,
+      "area": "15,000m",
+      "description": "Experience the true meaning of modern living in this luxurious apartment featuring spacious rooms, elegant finishes, and breathtaking views.",
+      "details": {
+        "images": [
+          "/images/project-details-main.jpg",
+          "/images/project-details-room.jpg",
+          "/images/project-details-lounge.jpg",
+          "/images/project-details-kitchen.jpg",
+          "/images/project-details-bath.jpg",
+          "/images/project-details-seaview.jpg"
+        ],
+        "propertyTitle": "Splendid historic Art Nouveau villa",
+        "location": "Minusio, Lake Maggiore, Switzerland — ref. LOC1771",
+        "facts": [
+          {
+            "label": "Plot size ca.",
+            "value": "589 m²"
+          },
+          {
+            "label": "Living area ca.",
+            "value": "300 m²"
+          },
+          {
+            "label": "Units",
+            "value": "3000"
+          },
+          {
+            "label": "Man made Lakes",
+            "value": "3"
+          },
+          {
+            "label": "Playground",
+            "value": "8"
+          },
+          {
+            "label": "Public gyms",
+            "value": "20"
+          },
+          {
+            "label": "Schools",
+            "value": "50"
+          }
+        ],
+        "overview": "Nestled in a residential area of Minusio, this magnificent historic villa is for sale, fully renovated and ready to move in. The spacious living areas, flooded with natural light thanks to perfect sun exposure, create a unique and welcoming atmosphere. A well-maintained, low-maintenance garden provides the ideal setting for enjoying outdoor gatherings. Its proximity to essential services and public transport also makes the villa an ideal choice for families.",
+        "heading": "Sawary Family Villa Project"
+      }
+    },
+    {
+      "id": 404,
+      "zoneId": 4,
+      "title": "Sawary Family Villa",
+      "image": "/images/zone-project-card.png",
+      "units": 50,
+      "gyms": 7,
+      "area": "15,000m",
+      "description": "Experience the true meaning of modern living in this luxurious apartment featuring spacious rooms, elegant finishes, and breathtaking views.",
+      "details": {
+        "images": [
+          "/images/project-details-main.jpg",
+          "/images/project-details-room.jpg",
+          "/images/project-details-lounge.jpg",
+          "/images/project-details-kitchen.jpg",
+          "/images/project-details-bath.jpg",
+          "/images/project-details-seaview.jpg"
+        ],
+        "propertyTitle": "Splendid historic Art Nouveau villa",
+        "location": "Minusio, Lake Maggiore, Switzerland — ref. LOC1771",
+        "facts": [
+          {
+            "label": "Plot size ca.",
+            "value": "589 m²"
+          },
+          {
+            "label": "Living area ca.",
+            "value": "300 m²"
+          },
+          {
+            "label": "Units",
+            "value": "3000"
+          },
+          {
+            "label": "Man made Lakes",
+            "value": "3"
+          },
+          {
+            "label": "Playground",
+            "value": "8"
+          },
+          {
+            "label": "Public gyms",
+            "value": "20"
+          },
+          {
+            "label": "Schools",
+            "value": "50"
+          }
+        ],
+        "overview": "Nestled in a residential area of Minusio, this magnificent historic villa is for sale, fully renovated and ready to move in. The spacious living areas, flooded with natural light thanks to perfect sun exposure, create a unique and welcoming atmosphere. A well-maintained, low-maintenance garden provides the ideal setting for enjoying outdoor gatherings. Its proximity to essential services and public transport also makes the villa an ideal choice for families.",
+        "heading": "Sawary Family Villa Project"
+      }
+    },
+    {
+      "id": 405,
+      "zoneId": 4,
+      "title": "Sawary Family Villa",
+      "image": "/images/zone-project-card.png",
+      "units": 50,
+      "gyms": 7,
+      "area": "15,000m",
+      "description": "Experience the true meaning of modern living in this luxurious apartment featuring spacious rooms, elegant finishes, and breathtaking views.",
+      "details": {
+        "images": [
+          "/images/project-details-main.jpg",
+          "/images/project-details-room.jpg",
+          "/images/project-details-lounge.jpg",
+          "/images/project-details-kitchen.jpg",
+          "/images/project-details-bath.jpg",
+          "/images/project-details-seaview.jpg"
+        ],
+        "propertyTitle": "Splendid historic Art Nouveau villa",
+        "location": "Minusio, Lake Maggiore, Switzerland — ref. LOC1771",
+        "facts": [
+          {
+            "label": "Plot size ca.",
+            "value": "589 m²"
+          },
+          {
+            "label": "Living area ca.",
+            "value": "300 m²"
+          },
+          {
+            "label": "Units",
+            "value": "3000"
+          },
+          {
+            "label": "Man made Lakes",
+            "value": "3"
+          },
+          {
+            "label": "Playground",
+            "value": "8"
+          },
+          {
+            "label": "Public gyms",
+            "value": "20"
+          },
+          {
+            "label": "Schools",
+            "value": "50"
+          }
+        ],
+        "overview": "Nestled in a residential area of Minusio, this magnificent historic villa is for sale, fully renovated and ready to move in. The spacious living areas, flooded with natural light thanks to perfect sun exposure, create a unique and welcoming atmosphere. A well-maintained, low-maintenance garden provides the ideal setting for enjoying outdoor gatherings. Its proximity to essential services and public transport also makes the villa an ideal choice for families.",
+        "heading": "Sawary Family Villa Project"
+      }
+    },
+    {
+      "id": 501,
+      "zoneId": 5,
+      "title": "Sawary Family Villa",
+      "image": "/images/zone-project-card.png",
+      "units": 50,
+      "gyms": 7,
+      "area": "15,000m",
+      "description": "Experience the true meaning of modern living in this luxurious apartment featuring spacious rooms, elegant finishes, and breathtaking views.",
+      "details": {
+        "images": [
+          "/images/project-details-main.jpg",
+          "/images/project-details-room.jpg",
+          "/images/project-details-lounge.jpg",
+          "/images/project-details-kitchen.jpg",
+          "/images/project-details-bath.jpg",
+          "/images/project-details-seaview.jpg"
+        ],
+        "propertyTitle": "Splendid historic Art Nouveau villa",
+        "location": "Minusio, Lake Maggiore, Switzerland — ref. LOC1771",
+        "facts": [
+          {
+            "label": "Plot size ca.",
+            "value": "589 m²"
+          },
+          {
+            "label": "Living area ca.",
+            "value": "300 m²"
+          },
+          {
+            "label": "Units",
+            "value": "3000"
+          },
+          {
+            "label": "Man made Lakes",
+            "value": "3"
+          },
+          {
+            "label": "Playground",
+            "value": "8"
+          },
+          {
+            "label": "Public gyms",
+            "value": "20"
+          },
+          {
+            "label": "Schools",
+            "value": "50"
+          }
+        ],
+        "overview": "Nestled in a residential area of Minusio, this magnificent historic villa is for sale, fully renovated and ready to move in. The spacious living areas, flooded with natural light thanks to perfect sun exposure, create a unique and welcoming atmosphere. A well-maintained, low-maintenance garden provides the ideal setting for enjoying outdoor gatherings. Its proximity to essential services and public transport also makes the villa an ideal choice for families.",
+        "heading": "Sawary Family Villa Project"
+      }
+    },
+    {
+      "id": 502,
+      "zoneId": 5,
+      "title": "Sawary Family Villa",
+      "image": "/images/zone-project-card.png",
+      "units": 50,
+      "gyms": 7,
+      "area": "15,000m",
+      "description": "Experience the true meaning of modern living in this luxurious apartment featuring spacious rooms, elegant finishes, and breathtaking views.",
+      "details": {
+        "images": [
+          "/images/project-details-main.jpg",
+          "/images/project-details-room.jpg",
+          "/images/project-details-lounge.jpg",
+          "/images/project-details-kitchen.jpg",
+          "/images/project-details-bath.jpg",
+          "/images/project-details-seaview.jpg"
+        ],
+        "propertyTitle": "Splendid historic Art Nouveau villa",
+        "location": "Minusio, Lake Maggiore, Switzerland — ref. LOC1771",
+        "facts": [
+          {
+            "label": "Plot size ca.",
+            "value": "589 m²"
+          },
+          {
+            "label": "Living area ca.",
+            "value": "300 m²"
+          },
+          {
+            "label": "Units",
+            "value": "3000"
+          },
+          {
+            "label": "Man made Lakes",
+            "value": "3"
+          },
+          {
+            "label": "Playground",
+            "value": "8"
+          },
+          {
+            "label": "Public gyms",
+            "value": "20"
+          },
+          {
+            "label": "Schools",
+            "value": "50"
+          }
+        ],
+        "overview": "Nestled in a residential area of Minusio, this magnificent historic villa is for sale, fully renovated and ready to move in. The spacious living areas, flooded with natural light thanks to perfect sun exposure, create a unique and welcoming atmosphere. A well-maintained, low-maintenance garden provides the ideal setting for enjoying outdoor gatherings. Its proximity to essential services and public transport also makes the villa an ideal choice for families.",
+        "heading": "Sawary Family Villa Project"
+      }
+    },
+    {
+      "id": 503,
+      "zoneId": 5,
+      "title": "Sawary Family Villa",
+      "image": "/images/zone-project-card.png",
+      "units": 50,
+      "gyms": 7,
+      "area": "15,000m",
+      "description": "Experience the true meaning of modern living in this luxurious apartment featuring spacious rooms, elegant finishes, and breathtaking views.",
+      "details": {
+        "images": [
+          "/images/project-details-main.jpg",
+          "/images/project-details-room.jpg",
+          "/images/project-details-lounge.jpg",
+          "/images/project-details-kitchen.jpg",
+          "/images/project-details-bath.jpg",
+          "/images/project-details-seaview.jpg"
+        ],
+        "propertyTitle": "Splendid historic Art Nouveau villa",
+        "location": "Minusio, Lake Maggiore, Switzerland — ref. LOC1771",
+        "facts": [
+          {
+            "label": "Plot size ca.",
+            "value": "589 m²"
+          },
+          {
+            "label": "Living area ca.",
+            "value": "300 m²"
+          },
+          {
+            "label": "Units",
+            "value": "3000"
+          },
+          {
+            "label": "Man made Lakes",
+            "value": "3"
+          },
+          {
+            "label": "Playground",
+            "value": "8"
+          },
+          {
+            "label": "Public gyms",
+            "value": "20"
+          },
+          {
+            "label": "Schools",
+            "value": "50"
+          }
+        ],
+        "overview": "Nestled in a residential area of Minusio, this magnificent historic villa is for sale, fully renovated and ready to move in. The spacious living areas, flooded with natural light thanks to perfect sun exposure, create a unique and welcoming atmosphere. A well-maintained, low-maintenance garden provides the ideal setting for enjoying outdoor gatherings. Its proximity to essential services and public transport also makes the villa an ideal choice for families.",
+        "heading": "Sawary Family Villa Project"
+      }
+    },
+    {
+      "id": 504,
+      "zoneId": 5,
+      "title": "Sawary Family Villa",
+      "image": "/images/zone-project-card.png",
+      "units": 50,
+      "gyms": 7,
+      "area": "15,000m",
+      "description": "Experience the true meaning of modern living in this luxurious apartment featuring spacious rooms, elegant finishes, and breathtaking views.",
+      "details": {
+        "images": [
+          "/images/project-details-main.jpg",
+          "/images/project-details-room.jpg",
+          "/images/project-details-lounge.jpg",
+          "/images/project-details-kitchen.jpg",
+          "/images/project-details-bath.jpg",
+          "/images/project-details-seaview.jpg"
+        ],
+        "propertyTitle": "Splendid historic Art Nouveau villa",
+        "location": "Minusio, Lake Maggiore, Switzerland — ref. LOC1771",
+        "facts": [
+          {
+            "label": "Plot size ca.",
+            "value": "589 m²"
+          },
+          {
+            "label": "Living area ca.",
+            "value": "300 m²"
+          },
+          {
+            "label": "Units",
+            "value": "3000"
+          },
+          {
+            "label": "Man made Lakes",
+            "value": "3"
+          },
+          {
+            "label": "Playground",
+            "value": "8"
+          },
+          {
+            "label": "Public gyms",
+            "value": "20"
+          },
+          {
+            "label": "Schools",
+            "value": "50"
+          }
+        ],
+        "overview": "Nestled in a residential area of Minusio, this magnificent historic villa is for sale, fully renovated and ready to move in. The spacious living areas, flooded with natural light thanks to perfect sun exposure, create a unique and welcoming atmosphere. A well-maintained, low-maintenance garden provides the ideal setting for enjoying outdoor gatherings. Its proximity to essential services and public transport also makes the villa an ideal choice for families.",
+        "heading": "Sawary Family Villa Project"
+      }
+    },
+    {
+      "id": 505,
+      "zoneId": 5,
+      "title": "Sawary Family Villa",
+      "image": "/images/zone-project-card.png",
+      "units": 50,
+      "gyms": 7,
+      "area": "15,000m",
+      "description": "Experience the true meaning of modern living in this luxurious apartment featuring spacious rooms, elegant finishes, and breathtaking views.",
+      "details": {
+        "images": [
+          "/images/project-details-main.jpg",
+          "/images/project-details-room.jpg",
+          "/images/project-details-lounge.jpg",
+          "/images/project-details-kitchen.jpg",
+          "/images/project-details-bath.jpg",
+          "/images/project-details-seaview.jpg"
+        ],
+        "propertyTitle": "Splendid historic Art Nouveau villa",
+        "location": "Minusio, Lake Maggiore, Switzerland — ref. LOC1771",
+        "facts": [
+          {
+            "label": "Plot size ca.",
+            "value": "589 m²"
+          },
+          {
+            "label": "Living area ca.",
+            "value": "300 m²"
+          },
+          {
+            "label": "Units",
+            "value": "3000"
+          },
+          {
+            "label": "Man made Lakes",
+            "value": "3"
+          },
+          {
+            "label": "Playground",
+            "value": "8"
+          },
+          {
+            "label": "Public gyms",
+            "value": "20"
+          },
+          {
+            "label": "Schools",
+            "value": "50"
+          }
+        ],
+        "overview": "Nestled in a residential area of Minusio, this magnificent historic villa is for sale, fully renovated and ready to move in. The spacious living areas, flooded with natural light thanks to perfect sun exposure, create a unique and welcoming atmosphere. A well-maintained, low-maintenance garden provides the ideal setting for enjoying outdoor gatherings. Its proximity to essential services and public transport also makes the villa an ideal choice for families.",
+        "heading": "Sawary Family Villa Project"
+      }
+    },
+    {
+      "id": 601,
+      "zoneId": 6,
+      "title": "Sawary Family Villa",
+      "image": "/images/zone-project-card.png",
+      "units": 50,
+      "gyms": 7,
+      "area": "15,000m",
+      "description": "Experience the true meaning of modern living in this luxurious apartment featuring spacious rooms, elegant finishes, and breathtaking views.",
+      "details": {
+        "images": [
+          "/images/project-details-main.jpg",
+          "/images/project-details-room.jpg",
+          "/images/project-details-lounge.jpg",
+          "/images/project-details-kitchen.jpg",
+          "/images/project-details-bath.jpg",
+          "/images/project-details-seaview.jpg"
+        ],
+        "propertyTitle": "Splendid historic Art Nouveau villa",
+        "location": "Minusio, Lake Maggiore, Switzerland — ref. LOC1771",
+        "facts": [
+          {
+            "label": "Plot size ca.",
+            "value": "589 m²"
+          },
+          {
+            "label": "Living area ca.",
+            "value": "300 m²"
+          },
+          {
+            "label": "Units",
+            "value": "3000"
+          },
+          {
+            "label": "Man made Lakes",
+            "value": "3"
+          },
+          {
+            "label": "Playground",
+            "value": "8"
+          },
+          {
+            "label": "Public gyms",
+            "value": "20"
+          },
+          {
+            "label": "Schools",
+            "value": "50"
+          }
+        ],
+        "overview": "Nestled in a residential area of Minusio, this magnificent historic villa is for sale, fully renovated and ready to move in. The spacious living areas, flooded with natural light thanks to perfect sun exposure, create a unique and welcoming atmosphere. A well-maintained, low-maintenance garden provides the ideal setting for enjoying outdoor gatherings. Its proximity to essential services and public transport also makes the villa an ideal choice for families.",
+        "heading": "Sawary Family Villa Project"
+      }
+    },
+    {
+      "id": 602,
+      "zoneId": 6,
+      "title": "Sawary Family Villa",
+      "image": "/images/zone-project-card.png",
+      "units": 50,
+      "gyms": 7,
+      "area": "15,000m",
+      "description": "Experience the true meaning of modern living in this luxurious apartment featuring spacious rooms, elegant finishes, and breathtaking views.",
+      "details": {
+        "images": [
+          "/images/project-details-main.jpg",
+          "/images/project-details-room.jpg",
+          "/images/project-details-lounge.jpg",
+          "/images/project-details-kitchen.jpg",
+          "/images/project-details-bath.jpg",
+          "/images/project-details-seaview.jpg"
+        ],
+        "propertyTitle": "Splendid historic Art Nouveau villa",
+        "location": "Minusio, Lake Maggiore, Switzerland — ref. LOC1771",
+        "facts": [
+          {
+            "label": "Plot size ca.",
+            "value": "589 m²"
+          },
+          {
+            "label": "Living area ca.",
+            "value": "300 m²"
+          },
+          {
+            "label": "Units",
+            "value": "3000"
+          },
+          {
+            "label": "Man made Lakes",
+            "value": "3"
+          },
+          {
+            "label": "Playground",
+            "value": "8"
+          },
+          {
+            "label": "Public gyms",
+            "value": "20"
+          },
+          {
+            "label": "Schools",
+            "value": "50"
+          }
+        ],
+        "overview": "Nestled in a residential area of Minusio, this magnificent historic villa is for sale, fully renovated and ready to move in. The spacious living areas, flooded with natural light thanks to perfect sun exposure, create a unique and welcoming atmosphere. A well-maintained, low-maintenance garden provides the ideal setting for enjoying outdoor gatherings. Its proximity to essential services and public transport also makes the villa an ideal choice for families.",
+        "heading": "Sawary Family Villa Project"
+      }
+    },
+    {
+      "id": 603,
+      "zoneId": 6,
+      "title": "Sawary Family Villa",
+      "image": "/images/zone-project-card.png",
+      "units": 50,
+      "gyms": 7,
+      "area": "15,000m",
+      "description": "Experience the true meaning of modern living in this luxurious apartment featuring spacious rooms, elegant finishes, and breathtaking views.",
+      "details": {
+        "images": [
+          "/images/project-details-main.jpg",
+          "/images/project-details-room.jpg",
+          "/images/project-details-lounge.jpg",
+          "/images/project-details-kitchen.jpg",
+          "/images/project-details-bath.jpg",
+          "/images/project-details-seaview.jpg"
+        ],
+        "propertyTitle": "Splendid historic Art Nouveau villa",
+        "location": "Minusio, Lake Maggiore, Switzerland — ref. LOC1771",
+        "facts": [
+          {
+            "label": "Plot size ca.",
+            "value": "589 m²"
+          },
+          {
+            "label": "Living area ca.",
+            "value": "300 m²"
+          },
+          {
+            "label": "Units",
+            "value": "3000"
+          },
+          {
+            "label": "Man made Lakes",
+            "value": "3"
+          },
+          {
+            "label": "Playground",
+            "value": "8"
+          },
+          {
+            "label": "Public gyms",
+            "value": "20"
+          },
+          {
+            "label": "Schools",
+            "value": "50"
+          }
+        ],
+        "overview": "Nestled in a residential area of Minusio, this magnificent historic villa is for sale, fully renovated and ready to move in. The spacious living areas, flooded with natural light thanks to perfect sun exposure, create a unique and welcoming atmosphere. A well-maintained, low-maintenance garden provides the ideal setting for enjoying outdoor gatherings. Its proximity to essential services and public transport also makes the villa an ideal choice for families.",
+        "heading": "Sawary Family Villa Project"
+      }
+    },
+    {
+      "id": 604,
+      "zoneId": 6,
+      "title": "Sawary Family Villa",
+      "image": "/images/zone-project-card.png",
+      "units": 50,
+      "gyms": 7,
+      "area": "15,000m",
+      "description": "Experience the true meaning of modern living in this luxurious apartment featuring spacious rooms, elegant finishes, and breathtaking views.",
+      "details": {
+        "images": [
+          "/images/project-details-main.jpg",
+          "/images/project-details-room.jpg",
+          "/images/project-details-lounge.jpg",
+          "/images/project-details-kitchen.jpg",
+          "/images/project-details-bath.jpg",
+          "/images/project-details-seaview.jpg"
+        ],
+        "propertyTitle": "Splendid historic Art Nouveau villa",
+        "location": "Minusio, Lake Maggiore, Switzerland — ref. LOC1771",
+        "facts": [
+          {
+            "label": "Plot size ca.",
+            "value": "589 m²"
+          },
+          {
+            "label": "Living area ca.",
+            "value": "300 m²"
+          },
+          {
+            "label": "Units",
+            "value": "3000"
+          },
+          {
+            "label": "Man made Lakes",
+            "value": "3"
+          },
+          {
+            "label": "Playground",
+            "value": "8"
+          },
+          {
+            "label": "Public gyms",
+            "value": "20"
+          },
+          {
+            "label": "Schools",
+            "value": "50"
+          }
+        ],
+        "overview": "Nestled in a residential area of Minusio, this magnificent historic villa is for sale, fully renovated and ready to move in. The spacious living areas, flooded with natural light thanks to perfect sun exposure, create a unique and welcoming atmosphere. A well-maintained, low-maintenance garden provides the ideal setting for enjoying outdoor gatherings. Its proximity to essential services and public transport also makes the villa an ideal choice for families.",
+        "heading": "Sawary Family Villa Project"
+      }
+    },
+    {
+      "id": 605,
+      "zoneId": 6,
+      "title": "Sawary Family Villa",
+      "image": "/images/zone-project-card.png",
+      "units": 50,
+      "gyms": 7,
+      "area": "15,000m",
+      "description": "Experience the true meaning of modern living in this luxurious apartment featuring spacious rooms, elegant finishes, and breathtaking views.",
+      "details": {
+        "images": [
+          "/images/project-details-main.jpg",
+          "/images/project-details-room.jpg",
+          "/images/project-details-lounge.jpg",
+          "/images/project-details-kitchen.jpg",
+          "/images/project-details-bath.jpg",
+          "/images/project-details-seaview.jpg"
+        ],
+        "propertyTitle": "Splendid historic Art Nouveau villa",
+        "location": "Minusio, Lake Maggiore, Switzerland — ref. LOC1771",
+        "facts": [
+          {
+            "label": "Plot size ca.",
+            "value": "589 m²"
+          },
+          {
+            "label": "Living area ca.",
+            "value": "300 m²"
+          },
+          {
+            "label": "Units",
+            "value": "3000"
+          },
+          {
+            "label": "Man made Lakes",
+            "value": "3"
+          },
+          {
+            "label": "Playground",
+            "value": "8"
+          },
+          {
+            "label": "Public gyms",
+            "value": "20"
+          },
+          {
+            "label": "Schools",
+            "value": "50"
+          }
+        ],
+        "overview": "Nestled in a residential area of Minusio, this magnificent historic villa is for sale, fully renovated and ready to move in. The spacious living areas, flooded with natural light thanks to perfect sun exposure, create a unique and welcoming atmosphere. A well-maintained, low-maintenance garden provides the ideal setting for enjoying outdoor gatherings. Its proximity to essential services and public transport also makes the villa an ideal choice for families.",
+        "heading": "Sawary Family Villa Project"
+      }
+    },
+    {
+      "id": 701,
+      "zoneId": 7,
+      "title": "Sawary Family Villa",
+      "image": "/images/zone-project-card.png",
+      "units": 50,
+      "gyms": 7,
+      "area": "15,000m",
+      "description": "Experience the true meaning of modern living in this luxurious apartment featuring spacious rooms, elegant finishes, and breathtaking views.",
+      "details": {
+        "images": [
+          "/images/project-details-main.jpg",
+          "/images/project-details-room.jpg",
+          "/images/project-details-lounge.jpg",
+          "/images/project-details-kitchen.jpg",
+          "/images/project-details-bath.jpg",
+          "/images/project-details-seaview.jpg"
+        ],
+        "propertyTitle": "Splendid historic Art Nouveau villa",
+        "location": "Minusio, Lake Maggiore, Switzerland — ref. LOC1771",
+        "facts": [
+          {
+            "label": "Plot size ca.",
+            "value": "589 m²"
+          },
+          {
+            "label": "Living area ca.",
+            "value": "300 m²"
+          },
+          {
+            "label": "Units",
+            "value": "3000"
+          },
+          {
+            "label": "Man made Lakes",
+            "value": "3"
+          },
+          {
+            "label": "Playground",
+            "value": "8"
+          },
+          {
+            "label": "Public gyms",
+            "value": "20"
+          },
+          {
+            "label": "Schools",
+            "value": "50"
+          }
+        ],
+        "overview": "Nestled in a residential area of Minusio, this magnificent historic villa is for sale, fully renovated and ready to move in. The spacious living areas, flooded with natural light thanks to perfect sun exposure, create a unique and welcoming atmosphere. A well-maintained, low-maintenance garden provides the ideal setting for enjoying outdoor gatherings. Its proximity to essential services and public transport also makes the villa an ideal choice for families.",
+        "heading": "Sawary Family Villa Project"
+      }
+    },
+    {
+      "id": 702,
+      "zoneId": 7,
+      "title": "Sawary Family Villa",
+      "image": "/images/zone-project-card.png",
+      "units": 50,
+      "gyms": 7,
+      "area": "15,000m",
+      "description": "Experience the true meaning of modern living in this luxurious apartment featuring spacious rooms, elegant finishes, and breathtaking views.",
+      "details": {
+        "images": [
+          "/images/project-details-main.jpg",
+          "/images/project-details-room.jpg",
+          "/images/project-details-lounge.jpg",
+          "/images/project-details-kitchen.jpg",
+          "/images/project-details-bath.jpg",
+          "/images/project-details-seaview.jpg"
+        ],
+        "propertyTitle": "Splendid historic Art Nouveau villa",
+        "location": "Minusio, Lake Maggiore, Switzerland — ref. LOC1771",
+        "facts": [
+          {
+            "label": "Plot size ca.",
+            "value": "589 m²"
+          },
+          {
+            "label": "Living area ca.",
+            "value": "300 m²"
+          },
+          {
+            "label": "Units",
+            "value": "3000"
+          },
+          {
+            "label": "Man made Lakes",
+            "value": "3"
+          },
+          {
+            "label": "Playground",
+            "value": "8"
+          },
+          {
+            "label": "Public gyms",
+            "value": "20"
+          },
+          {
+            "label": "Schools",
+            "value": "50"
+          }
+        ],
+        "overview": "Nestled in a residential area of Minusio, this magnificent historic villa is for sale, fully renovated and ready to move in. The spacious living areas, flooded with natural light thanks to perfect sun exposure, create a unique and welcoming atmosphere. A well-maintained, low-maintenance garden provides the ideal setting for enjoying outdoor gatherings. Its proximity to essential services and public transport also makes the villa an ideal choice for families.",
+        "heading": "Sawary Family Villa Project"
+      }
+    },
+    {
+      "id": 703,
+      "zoneId": 7,
+      "title": "Sawary Family Villa",
+      "image": "/images/zone-project-card.png",
+      "units": 50,
+      "gyms": 7,
+      "area": "15,000m",
+      "description": "Experience the true meaning of modern living in this luxurious apartment featuring spacious rooms, elegant finishes, and breathtaking views.",
+      "details": {
+        "images": [
+          "/images/project-details-main.jpg",
+          "/images/project-details-room.jpg",
+          "/images/project-details-lounge.jpg",
+          "/images/project-details-kitchen.jpg",
+          "/images/project-details-bath.jpg",
+          "/images/project-details-seaview.jpg"
+        ],
+        "propertyTitle": "Splendid historic Art Nouveau villa",
+        "location": "Minusio, Lake Maggiore, Switzerland — ref. LOC1771",
+        "facts": [
+          {
+            "label": "Plot size ca.",
+            "value": "589 m²"
+          },
+          {
+            "label": "Living area ca.",
+            "value": "300 m²"
+          },
+          {
+            "label": "Units",
+            "value": "3000"
+          },
+          {
+            "label": "Man made Lakes",
+            "value": "3"
+          },
+          {
+            "label": "Playground",
+            "value": "8"
+          },
+          {
+            "label": "Public gyms",
+            "value": "20"
+          },
+          {
+            "label": "Schools",
+            "value": "50"
+          }
+        ],
+        "overview": "Nestled in a residential area of Minusio, this magnificent historic villa is for sale, fully renovated and ready to move in. The spacious living areas, flooded with natural light thanks to perfect sun exposure, create a unique and welcoming atmosphere. A well-maintained, low-maintenance garden provides the ideal setting for enjoying outdoor gatherings. Its proximity to essential services and public transport also makes the villa an ideal choice for families.",
+        "heading": "Sawary Family Villa Project"
+      }
+    },
+    {
+      "id": 704,
+      "zoneId": 7,
+      "title": "Sawary Family Villa",
+      "image": "/images/zone-project-card.png",
+      "units": 50,
+      "gyms": 7,
+      "area": "15,000m",
+      "description": "Experience the true meaning of modern living in this luxurious apartment featuring spacious rooms, elegant finishes, and breathtaking views.",
+      "details": {
+        "images": [
+          "/images/project-details-main.jpg",
+          "/images/project-details-room.jpg",
+          "/images/project-details-lounge.jpg",
+          "/images/project-details-kitchen.jpg",
+          "/images/project-details-bath.jpg",
+          "/images/project-details-seaview.jpg"
+        ],
+        "propertyTitle": "Splendid historic Art Nouveau villa",
+        "location": "Minusio, Lake Maggiore, Switzerland — ref. LOC1771",
+        "facts": [
+          {
+            "label": "Plot size ca.",
+            "value": "589 m²"
+          },
+          {
+            "label": "Living area ca.",
+            "value": "300 m²"
+          },
+          {
+            "label": "Units",
+            "value": "3000"
+          },
+          {
+            "label": "Man made Lakes",
+            "value": "3"
+          },
+          {
+            "label": "Playground",
+            "value": "8"
+          },
+          {
+            "label": "Public gyms",
+            "value": "20"
+          },
+          {
+            "label": "Schools",
+            "value": "50"
+          }
+        ],
+        "overview": "Nestled in a residential area of Minusio, this magnificent historic villa is for sale, fully renovated and ready to move in. The spacious living areas, flooded with natural light thanks to perfect sun exposure, create a unique and welcoming atmosphere. A well-maintained, low-maintenance garden provides the ideal setting for enjoying outdoor gatherings. Its proximity to essential services and public transport also makes the villa an ideal choice for families.",
+        "heading": "Sawary Family Villa Project"
+      }
+    },
+    {
+      "id": 705,
+      "zoneId": 7,
+      "title": "Sawary Family Villa",
+      "image": "/images/zone-project-card.png",
+      "units": 50,
+      "gyms": 7,
+      "area": "15,000m",
+      "description": "Experience the true meaning of modern living in this luxurious apartment featuring spacious rooms, elegant finishes, and breathtaking views.",
+      "details": {
+        "images": [
+          "/images/project-details-main.jpg",
+          "/images/project-details-room.jpg",
+          "/images/project-details-lounge.jpg",
+          "/images/project-details-kitchen.jpg",
+          "/images/project-details-bath.jpg",
+          "/images/project-details-seaview.jpg"
+        ],
+        "propertyTitle": "Splendid historic Art Nouveau villa",
+        "location": "Minusio, Lake Maggiore, Switzerland — ref. LOC1771",
+        "facts": [
+          {
+            "label": "Plot size ca.",
+            "value": "589 m²"
+          },
+          {
+            "label": "Living area ca.",
+            "value": "300 m²"
+          },
+          {
+            "label": "Units",
+            "value": "3000"
+          },
+          {
+            "label": "Man made Lakes",
+            "value": "3"
+          },
+          {
+            "label": "Playground",
+            "value": "8"
+          },
+          {
+            "label": "Public gyms",
+            "value": "20"
+          },
+          {
+            "label": "Schools",
+            "value": "50"
+          }
+        ],
+        "overview": "Nestled in a residential area of Minusio, this magnificent historic villa is for sale, fully renovated and ready to move in. The spacious living areas, flooded with natural light thanks to perfect sun exposure, create a unique and welcoming atmosphere. A well-maintained, low-maintenance garden provides the ideal setting for enjoying outdoor gatherings. Its proximity to essential services and public transport also makes the villa an ideal choice for families.",
+        "heading": "Sawary Family Villa Project"
+      }
+    },
+    {
+      "id": 801,
+      "zoneId": 8,
+      "title": "Sawary Family Villa",
+      "image": "/images/zone-project-card.png",
+      "units": 50,
+      "gyms": 7,
+      "area": "15,000m",
+      "description": "Experience the true meaning of modern living in this luxurious apartment featuring spacious rooms, elegant finishes, and breathtaking views.",
+      "details": {
+        "images": [
+          "/images/project-details-main.jpg",
+          "/images/project-details-room.jpg",
+          "/images/project-details-lounge.jpg",
+          "/images/project-details-kitchen.jpg",
+          "/images/project-details-bath.jpg",
+          "/images/project-details-seaview.jpg"
+        ],
+        "propertyTitle": "Splendid historic Art Nouveau villa",
+        "location": "Minusio, Lake Maggiore, Switzerland — ref. LOC1771",
+        "facts": [
+          {
+            "label": "Plot size ca.",
+            "value": "589 m²"
+          },
+          {
+            "label": "Living area ca.",
+            "value": "300 m²"
+          },
+          {
+            "label": "Units",
+            "value": "3000"
+          },
+          {
+            "label": "Man made Lakes",
+            "value": "3"
+          },
+          {
+            "label": "Playground",
+            "value": "8"
+          },
+          {
+            "label": "Public gyms",
+            "value": "20"
+          },
+          {
+            "label": "Schools",
+            "value": "50"
+          }
+        ],
+        "overview": "Nestled in a residential area of Minusio, this magnificent historic villa is for sale, fully renovated and ready to move in. The spacious living areas, flooded with natural light thanks to perfect sun exposure, create a unique and welcoming atmosphere. A well-maintained, low-maintenance garden provides the ideal setting for enjoying outdoor gatherings. Its proximity to essential services and public transport also makes the villa an ideal choice for families.",
+        "heading": "Sawary Family Villa Project"
+      }
+    },
+    {
+      "id": 802,
+      "zoneId": 8,
+      "title": "Sawary Family Villa",
+      "image": "/images/zone-project-card.png",
+      "units": 50,
+      "gyms": 7,
+      "area": "15,000m",
+      "description": "Experience the true meaning of modern living in this luxurious apartment featuring spacious rooms, elegant finishes, and breathtaking views.",
+      "details": {
+        "images": [
+          "/images/project-details-main.jpg",
+          "/images/project-details-room.jpg",
+          "/images/project-details-lounge.jpg",
+          "/images/project-details-kitchen.jpg",
+          "/images/project-details-bath.jpg",
+          "/images/project-details-seaview.jpg"
+        ],
+        "propertyTitle": "Splendid historic Art Nouveau villa",
+        "location": "Minusio, Lake Maggiore, Switzerland — ref. LOC1771",
+        "facts": [
+          {
+            "label": "Plot size ca.",
+            "value": "589 m²"
+          },
+          {
+            "label": "Living area ca.",
+            "value": "300 m²"
+          },
+          {
+            "label": "Units",
+            "value": "3000"
+          },
+          {
+            "label": "Man made Lakes",
+            "value": "3"
+          },
+          {
+            "label": "Playground",
+            "value": "8"
+          },
+          {
+            "label": "Public gyms",
+            "value": "20"
+          },
+          {
+            "label": "Schools",
+            "value": "50"
+          }
+        ],
+        "overview": "Nestled in a residential area of Minusio, this magnificent historic villa is for sale, fully renovated and ready to move in. The spacious living areas, flooded with natural light thanks to perfect sun exposure, create a unique and welcoming atmosphere. A well-maintained, low-maintenance garden provides the ideal setting for enjoying outdoor gatherings. Its proximity to essential services and public transport also makes the villa an ideal choice for families.",
+        "heading": "Sawary Family Villa Project"
+      }
+    },
+    {
+      "id": 803,
+      "zoneId": 8,
+      "title": "Sawary Family Villa",
+      "image": "/images/zone-project-card.png",
+      "units": 50,
+      "gyms": 7,
+      "area": "15,000m",
+      "description": "Experience the true meaning of modern living in this luxurious apartment featuring spacious rooms, elegant finishes, and breathtaking views.",
+      "details": {
+        "images": [
+          "/images/project-details-main.jpg",
+          "/images/project-details-room.jpg",
+          "/images/project-details-lounge.jpg",
+          "/images/project-details-kitchen.jpg",
+          "/images/project-details-bath.jpg",
+          "/images/project-details-seaview.jpg"
+        ],
+        "propertyTitle": "Splendid historic Art Nouveau villa",
+        "location": "Minusio, Lake Maggiore, Switzerland — ref. LOC1771",
+        "facts": [
+          {
+            "label": "Plot size ca.",
+            "value": "589 m²"
+          },
+          {
+            "label": "Living area ca.",
+            "value": "300 m²"
+          },
+          {
+            "label": "Units",
+            "value": "3000"
+          },
+          {
+            "label": "Man made Lakes",
+            "value": "3"
+          },
+          {
+            "label": "Playground",
+            "value": "8"
+          },
+          {
+            "label": "Public gyms",
+            "value": "20"
+          },
+          {
+            "label": "Schools",
+            "value": "50"
+          }
+        ],
+        "overview": "Nestled in a residential area of Minusio, this magnificent historic villa is for sale, fully renovated and ready to move in. The spacious living areas, flooded with natural light thanks to perfect sun exposure, create a unique and welcoming atmosphere. A well-maintained, low-maintenance garden provides the ideal setting for enjoying outdoor gatherings. Its proximity to essential services and public transport also makes the villa an ideal choice for families.",
+        "heading": "Sawary Family Villa Project"
+      }
+    },
+    {
+      "id": 804,
+      "zoneId": 8,
+      "title": "Sawary Family Villa",
+      "image": "/images/zone-project-card.png",
+      "units": 50,
+      "gyms": 7,
+      "area": "15,000m",
+      "description": "Experience the true meaning of modern living in this luxurious apartment featuring spacious rooms, elegant finishes, and breathtaking views.",
+      "details": {
+        "images": [
+          "/images/project-details-main.jpg",
+          "/images/project-details-room.jpg",
+          "/images/project-details-lounge.jpg",
+          "/images/project-details-kitchen.jpg",
+          "/images/project-details-bath.jpg",
+          "/images/project-details-seaview.jpg"
+        ],
+        "propertyTitle": "Splendid historic Art Nouveau villa",
+        "location": "Minusio, Lake Maggiore, Switzerland — ref. LOC1771",
+        "facts": [
+          {
+            "label": "Plot size ca.",
+            "value": "589 m²"
+          },
+          {
+            "label": "Living area ca.",
+            "value": "300 m²"
+          },
+          {
+            "label": "Units",
+            "value": "3000"
+          },
+          {
+            "label": "Man made Lakes",
+            "value": "3"
+          },
+          {
+            "label": "Playground",
+            "value": "8"
+          },
+          {
+            "label": "Public gyms",
+            "value": "20"
+          },
+          {
+            "label": "Schools",
+            "value": "50"
+          }
+        ],
+        "overview": "Nestled in a residential area of Minusio, this magnificent historic villa is for sale, fully renovated and ready to move in. The spacious living areas, flooded with natural light thanks to perfect sun exposure, create a unique and welcoming atmosphere. A well-maintained, low-maintenance garden provides the ideal setting for enjoying outdoor gatherings. Its proximity to essential services and public transport also makes the villa an ideal choice for families.",
+        "heading": "Sawary Family Villa Project"
+      }
+    },
+    {
+      "id": 805,
+      "zoneId": 8,
+      "title": "Sawary Family Villa",
+      "image": "/images/zone-project-card.png",
+      "units": 50,
+      "gyms": 7,
+      "area": "15,000m",
+      "description": "Experience the true meaning of modern living in this luxurious apartment featuring spacious rooms, elegant finishes, and breathtaking views.",
+      "details": {
+        "images": [
+          "/images/project-details-main.jpg",
+          "/images/project-details-room.jpg",
+          "/images/project-details-lounge.jpg",
+          "/images/project-details-kitchen.jpg",
+          "/images/project-details-bath.jpg",
+          "/images/project-details-seaview.jpg"
+        ],
+        "propertyTitle": "Splendid historic Art Nouveau villa",
+        "location": "Minusio, Lake Maggiore, Switzerland — ref. LOC1771",
+        "facts": [
+          {
+            "label": "Plot size ca.",
+            "value": "589 m²"
+          },
+          {
+            "label": "Living area ca.",
+            "value": "300 m²"
+          },
+          {
+            "label": "Units",
+            "value": "3000"
+          },
+          {
+            "label": "Man made Lakes",
+            "value": "3"
+          },
+          {
+            "label": "Playground",
+            "value": "8"
+          },
+          {
+            "label": "Public gyms",
+            "value": "20"
+          },
+          {
+            "label": "Schools",
+            "value": "50"
+          }
+        ],
+        "overview": "Nestled in a residential area of Minusio, this magnificent historic villa is for sale, fully renovated and ready to move in. The spacious living areas, flooded with natural light thanks to perfect sun exposure, create a unique and welcoming atmosphere. A well-maintained, low-maintenance garden provides the ideal setting for enjoying outdoor gatherings. Its proximity to essential services and public transport also makes the villa an ideal choice for families.",
+        "heading": "Sawary Family Villa Project"
+      }
+    }
+  ],
+  "developers": [
+    {
+      "id": 1,
+      "kind": "palm",
+      "name": "Palm Hills Developments",
+      "subtitle": "Palm Hills Developments",
+      "image": "/images/developer-palm-hills.jpg",
+      "logo": "/images/developer-palm-hills-logo.png",
+      "location": "New Cairo"
+    },
+    {
+      "id": 2,
+      "kind": "hayah",
+      "name": "Hayah City",
+      "subtitle": "Hayah Development",
+      "image": "/images/developer-hayah-city.jpg",
+      "logo": "/images/developer-hayah-city-mark.png",
+      "location": "New Cairo"
+    },
+    {
+      "id": 3,
+      "kind": "palm",
+      "name": "Palm Hills Developments",
+      "subtitle": "Palm Hills Developments",
+      "image": "/images/developer-palm-hills.jpg",
+      "logo": "/images/developer-palm-hills-logo.png",
+      "location": "New Cairo"
+    },
+    {
+      "id": 4,
+      "kind": "palm",
+      "name": "Palm Hills Developments",
+      "subtitle": "Palm Hills Developments",
+      "image": "/images/developer-palm-hills.jpg",
+      "logo": "/images/developer-palm-hills-logo.png",
+      "location": "New Cairo"
+    },
+    {
+      "id": 5,
+      "kind": "hayah",
+      "name": "Hayah City",
+      "subtitle": "Hayah Development",
+      "image": "/images/developer-hayah-city.jpg",
+      "logo": "/images/developer-hayah-city-mark.png",
+      "location": "New Cairo"
+    },
+    {
+      "id": 6,
+      "kind": "palm",
+      "name": "Palm Hills Developments",
+      "subtitle": "Palm Hills Developments",
+      "image": "/images/developer-palm-hills.jpg",
+      "logo": "/images/developer-palm-hills-logo.png",
+      "location": "New Cairo"
+    },
+    {
+      "id": 7,
+      "kind": "palm",
+      "name": "Palm Hills Developments",
+      "subtitle": "Palm Hills Developments",
+      "image": "/images/developer-palm-hills.jpg",
+      "logo": "/images/developer-palm-hills-logo.png",
+      "location": "New Cairo"
+    },
+    {
+      "id": 8,
+      "kind": "hayah",
+      "name": "Hayah City",
+      "subtitle": "Hayah Development",
+      "image": "/images/developer-hayah-city.jpg",
+      "logo": "/images/developer-hayah-city-mark.png",
+      "location": "New Cairo"
+    },
+    {
+      "id": 9,
+      "kind": "palm",
+      "name": "Palm Hills Developments",
+      "subtitle": "Palm Hills Developments",
+      "image": "/images/developer-palm-hills.jpg",
+      "logo": "/images/developer-palm-hills-logo.png",
+      "location": "New Cairo"
+    }
+  ],
+  "developerProjects": [
+    {
+      "id": 1001,
+      "developerId": 1,
+      "sourceProjectId": 101,
+      "title": "Sawary Family Villa",
+      "image": "/images/zone-project-card.png",
+      "units": 50,
+      "gyms": 7,
+      "area": "15,000m",
+      "description": "Experience the true meaning of modern living in this luxurious apartment featuring spacious rooms, elegant finishes, and breathtaking views."
+    },
+    {
+      "id": 1002,
+      "developerId": 1,
+      "sourceProjectId": 102,
+      "title": "Sawary Family Villa",
+      "image": "/images/zone-project-card.png",
+      "units": 50,
+      "gyms": 7,
+      "area": "15,000m",
+      "description": "Experience the true meaning of modern living in this luxurious apartment featuring spacious rooms, elegant finishes, and breathtaking views."
+    },
+    {
+      "id": 1003,
+      "developerId": 1,
+      "sourceProjectId": 103,
+      "title": "Sawary Family Villa",
+      "image": "/images/zone-project-card.png",
+      "units": 50,
+      "gyms": 7,
+      "area": "15,000m",
+      "description": "Experience the true meaning of modern living in this luxurious apartment featuring spacious rooms, elegant finishes, and breathtaking views."
+    },
+    {
+      "id": 1004,
+      "developerId": 1,
+      "sourceProjectId": 104,
+      "title": "Sawary Family Villa",
+      "image": "/images/zone-project-card.png",
+      "units": 50,
+      "gyms": 7,
+      "area": "15,000m",
+      "description": "Experience the true meaning of modern living in this luxurious apartment featuring spacious rooms, elegant finishes, and breathtaking views."
+    },
+    {
+      "id": 1005,
+      "developerId": 1,
+      "sourceProjectId": 105,
+      "title": "Sawary Family Villa",
+      "image": "/images/zone-project-card.png",
+      "units": 50,
+      "gyms": 7,
+      "area": "15,000m",
+      "description": "Experience the true meaning of modern living in this luxurious apartment featuring spacious rooms, elegant finishes, and breathtaking views."
+    },
+    {
+      "id": 2001,
+      "developerId": 2,
+      "sourceProjectId": 201,
+      "title": "Sawary Family Villa",
+      "image": "/images/zone-project-card.png",
+      "units": 50,
+      "gyms": 7,
+      "area": "15,000m",
+      "description": "Experience the true meaning of modern living in this luxurious apartment featuring spacious rooms, elegant finishes, and breathtaking views."
+    },
+    {
+      "id": 2002,
+      "developerId": 2,
+      "sourceProjectId": 202,
+      "title": "Sawary Family Villa",
+      "image": "/images/zone-project-card.png",
+      "units": 50,
+      "gyms": 7,
+      "area": "15,000m",
+      "description": "Experience the true meaning of modern living in this luxurious apartment featuring spacious rooms, elegant finishes, and breathtaking views."
+    },
+    {
+      "id": 2003,
+      "developerId": 2,
+      "sourceProjectId": 203,
+      "title": "Sawary Family Villa",
+      "image": "/images/zone-project-card.png",
+      "units": 50,
+      "gyms": 7,
+      "area": "15,000m",
+      "description": "Experience the true meaning of modern living in this luxurious apartment featuring spacious rooms, elegant finishes, and breathtaking views."
+    },
+    {
+      "id": 2004,
+      "developerId": 2,
+      "sourceProjectId": 204,
+      "title": "Sawary Family Villa",
+      "image": "/images/zone-project-card.png",
+      "units": 50,
+      "gyms": 7,
+      "area": "15,000m",
+      "description": "Experience the true meaning of modern living in this luxurious apartment featuring spacious rooms, elegant finishes, and breathtaking views."
+    },
+    {
+      "id": 2005,
+      "developerId": 2,
+      "sourceProjectId": 205,
+      "title": "Sawary Family Villa",
+      "image": "/images/zone-project-card.png",
+      "units": 50,
+      "gyms": 7,
+      "area": "15,000m",
+      "description": "Experience the true meaning of modern living in this luxurious apartment featuring spacious rooms, elegant finishes, and breathtaking views."
+    },
+    {
+      "id": 3001,
+      "developerId": 3,
+      "sourceProjectId": 301,
+      "title": "Sawary Family Villa",
+      "image": "/images/zone-project-card.png",
+      "units": 50,
+      "gyms": 7,
+      "area": "15,000m",
+      "description": "Experience the true meaning of modern living in this luxurious apartment featuring spacious rooms, elegant finishes, and breathtaking views."
+    },
+    {
+      "id": 3002,
+      "developerId": 3,
+      "sourceProjectId": 302,
+      "title": "Sawary Family Villa",
+      "image": "/images/zone-project-card.png",
+      "units": 50,
+      "gyms": 7,
+      "area": "15,000m",
+      "description": "Experience the true meaning of modern living in this luxurious apartment featuring spacious rooms, elegant finishes, and breathtaking views."
+    },
+    {
+      "id": 3003,
+      "developerId": 3,
+      "sourceProjectId": 303,
+      "title": "Sawary Family Villa",
+      "image": "/images/zone-project-card.png",
+      "units": 50,
+      "gyms": 7,
+      "area": "15,000m",
+      "description": "Experience the true meaning of modern living in this luxurious apartment featuring spacious rooms, elegant finishes, and breathtaking views."
+    },
+    {
+      "id": 3004,
+      "developerId": 3,
+      "sourceProjectId": 304,
+      "title": "Sawary Family Villa",
+      "image": "/images/zone-project-card.png",
+      "units": 50,
+      "gyms": 7,
+      "area": "15,000m",
+      "description": "Experience the true meaning of modern living in this luxurious apartment featuring spacious rooms, elegant finishes, and breathtaking views."
+    },
+    {
+      "id": 3005,
+      "developerId": 3,
+      "sourceProjectId": 305,
+      "title": "Sawary Family Villa",
+      "image": "/images/zone-project-card.png",
+      "units": 50,
+      "gyms": 7,
+      "area": "15,000m",
+      "description": "Experience the true meaning of modern living in this luxurious apartment featuring spacious rooms, elegant finishes, and breathtaking views."
+    },
+    {
+      "id": 4001,
+      "developerId": 4,
+      "sourceProjectId": 401,
+      "title": "Sawary Family Villa",
+      "image": "/images/zone-project-card.png",
+      "units": 50,
+      "gyms": 7,
+      "area": "15,000m",
+      "description": "Experience the true meaning of modern living in this luxurious apartment featuring spacious rooms, elegant finishes, and breathtaking views."
+    },
+    {
+      "id": 4002,
+      "developerId": 4,
+      "sourceProjectId": 402,
+      "title": "Sawary Family Villa",
+      "image": "/images/zone-project-card.png",
+      "units": 50,
+      "gyms": 7,
+      "area": "15,000m",
+      "description": "Experience the true meaning of modern living in this luxurious apartment featuring spacious rooms, elegant finishes, and breathtaking views."
+    },
+    {
+      "id": 4003,
+      "developerId": 4,
+      "sourceProjectId": 403,
+      "title": "Sawary Family Villa",
+      "image": "/images/zone-project-card.png",
+      "units": 50,
+      "gyms": 7,
+      "area": "15,000m",
+      "description": "Experience the true meaning of modern living in this luxurious apartment featuring spacious rooms, elegant finishes, and breathtaking views."
+    },
+    {
+      "id": 4004,
+      "developerId": 4,
+      "sourceProjectId": 404,
+      "title": "Sawary Family Villa",
+      "image": "/images/zone-project-card.png",
+      "units": 50,
+      "gyms": 7,
+      "area": "15,000m",
+      "description": "Experience the true meaning of modern living in this luxurious apartment featuring spacious rooms, elegant finishes, and breathtaking views."
+    },
+    {
+      "id": 4005,
+      "developerId": 4,
+      "sourceProjectId": 405,
+      "title": "Sawary Family Villa",
+      "image": "/images/zone-project-card.png",
+      "units": 50,
+      "gyms": 7,
+      "area": "15,000m",
+      "description": "Experience the true meaning of modern living in this luxurious apartment featuring spacious rooms, elegant finishes, and breathtaking views."
+    },
+    {
+      "id": 5001,
+      "developerId": 5,
+      "sourceProjectId": 501,
+      "title": "Sawary Family Villa",
+      "image": "/images/zone-project-card.png",
+      "units": 50,
+      "gyms": 7,
+      "area": "15,000m",
+      "description": "Experience the true meaning of modern living in this luxurious apartment featuring spacious rooms, elegant finishes, and breathtaking views."
+    },
+    {
+      "id": 5002,
+      "developerId": 5,
+      "sourceProjectId": 502,
+      "title": "Sawary Family Villa",
+      "image": "/images/zone-project-card.png",
+      "units": 50,
+      "gyms": 7,
+      "area": "15,000m",
+      "description": "Experience the true meaning of modern living in this luxurious apartment featuring spacious rooms, elegant finishes, and breathtaking views."
+    },
+    {
+      "id": 5003,
+      "developerId": 5,
+      "sourceProjectId": 503,
+      "title": "Sawary Family Villa",
+      "image": "/images/zone-project-card.png",
+      "units": 50,
+      "gyms": 7,
+      "area": "15,000m",
+      "description": "Experience the true meaning of modern living in this luxurious apartment featuring spacious rooms, elegant finishes, and breathtaking views."
+    },
+    {
+      "id": 5004,
+      "developerId": 5,
+      "sourceProjectId": 504,
+      "title": "Sawary Family Villa",
+      "image": "/images/zone-project-card.png",
+      "units": 50,
+      "gyms": 7,
+      "area": "15,000m",
+      "description": "Experience the true meaning of modern living in this luxurious apartment featuring spacious rooms, elegant finishes, and breathtaking views."
+    },
+    {
+      "id": 5005,
+      "developerId": 5,
+      "sourceProjectId": 505,
+      "title": "Sawary Family Villa",
+      "image": "/images/zone-project-card.png",
+      "units": 50,
+      "gyms": 7,
+      "area": "15,000m",
+      "description": "Experience the true meaning of modern living in this luxurious apartment featuring spacious rooms, elegant finishes, and breathtaking views."
+    },
+    {
+      "id": 6001,
+      "developerId": 6,
+      "sourceProjectId": 601,
+      "title": "Sawary Family Villa",
+      "image": "/images/zone-project-card.png",
+      "units": 50,
+      "gyms": 7,
+      "area": "15,000m",
+      "description": "Experience the true meaning of modern living in this luxurious apartment featuring spacious rooms, elegant finishes, and breathtaking views."
+    },
+    {
+      "id": 6002,
+      "developerId": 6,
+      "sourceProjectId": 602,
+      "title": "Sawary Family Villa",
+      "image": "/images/zone-project-card.png",
+      "units": 50,
+      "gyms": 7,
+      "area": "15,000m",
+      "description": "Experience the true meaning of modern living in this luxurious apartment featuring spacious rooms, elegant finishes, and breathtaking views."
+    },
+    {
+      "id": 6003,
+      "developerId": 6,
+      "sourceProjectId": 603,
+      "title": "Sawary Family Villa",
+      "image": "/images/zone-project-card.png",
+      "units": 50,
+      "gyms": 7,
+      "area": "15,000m",
+      "description": "Experience the true meaning of modern living in this luxurious apartment featuring spacious rooms, elegant finishes, and breathtaking views."
+    },
+    {
+      "id": 6004,
+      "developerId": 6,
+      "sourceProjectId": 604,
+      "title": "Sawary Family Villa",
+      "image": "/images/zone-project-card.png",
+      "units": 50,
+      "gyms": 7,
+      "area": "15,000m",
+      "description": "Experience the true meaning of modern living in this luxurious apartment featuring spacious rooms, elegant finishes, and breathtaking views."
+    },
+    {
+      "id": 6005,
+      "developerId": 6,
+      "sourceProjectId": 605,
+      "title": "Sawary Family Villa",
+      "image": "/images/zone-project-card.png",
+      "units": 50,
+      "gyms": 7,
+      "area": "15,000m",
+      "description": "Experience the true meaning of modern living in this luxurious apartment featuring spacious rooms, elegant finishes, and breathtaking views."
+    },
+    {
+      "id": 7001,
+      "developerId": 7,
+      "sourceProjectId": 701,
+      "title": "Sawary Family Villa",
+      "image": "/images/zone-project-card.png",
+      "units": 50,
+      "gyms": 7,
+      "area": "15,000m",
+      "description": "Experience the true meaning of modern living in this luxurious apartment featuring spacious rooms, elegant finishes, and breathtaking views."
+    },
+    {
+      "id": 7002,
+      "developerId": 7,
+      "sourceProjectId": 702,
+      "title": "Sawary Family Villa",
+      "image": "/images/zone-project-card.png",
+      "units": 50,
+      "gyms": 7,
+      "area": "15,000m",
+      "description": "Experience the true meaning of modern living in this luxurious apartment featuring spacious rooms, elegant finishes, and breathtaking views."
+    },
+    {
+      "id": 7003,
+      "developerId": 7,
+      "sourceProjectId": 703,
+      "title": "Sawary Family Villa",
+      "image": "/images/zone-project-card.png",
+      "units": 50,
+      "gyms": 7,
+      "area": "15,000m",
+      "description": "Experience the true meaning of modern living in this luxurious apartment featuring spacious rooms, elegant finishes, and breathtaking views."
+    },
+    {
+      "id": 7004,
+      "developerId": 7,
+      "sourceProjectId": 704,
+      "title": "Sawary Family Villa",
+      "image": "/images/zone-project-card.png",
+      "units": 50,
+      "gyms": 7,
+      "area": "15,000m",
+      "description": "Experience the true meaning of modern living in this luxurious apartment featuring spacious rooms, elegant finishes, and breathtaking views."
+    },
+    {
+      "id": 7005,
+      "developerId": 7,
+      "sourceProjectId": 705,
+      "title": "Sawary Family Villa",
+      "image": "/images/zone-project-card.png",
+      "units": 50,
+      "gyms": 7,
+      "area": "15,000m",
+      "description": "Experience the true meaning of modern living in this luxurious apartment featuring spacious rooms, elegant finishes, and breathtaking views."
+    },
+    {
+      "id": 8001,
+      "developerId": 8,
+      "sourceProjectId": 801,
+      "title": "Sawary Family Villa",
+      "image": "/images/zone-project-card.png",
+      "units": 50,
+      "gyms": 7,
+      "area": "15,000m",
+      "description": "Experience the true meaning of modern living in this luxurious apartment featuring spacious rooms, elegant finishes, and breathtaking views."
+    },
+    {
+      "id": 8002,
+      "developerId": 8,
+      "sourceProjectId": 802,
+      "title": "Sawary Family Villa",
+      "image": "/images/zone-project-card.png",
+      "units": 50,
+      "gyms": 7,
+      "area": "15,000m",
+      "description": "Experience the true meaning of modern living in this luxurious apartment featuring spacious rooms, elegant finishes, and breathtaking views."
+    },
+    {
+      "id": 8003,
+      "developerId": 8,
+      "sourceProjectId": 803,
+      "title": "Sawary Family Villa",
+      "image": "/images/zone-project-card.png",
+      "units": 50,
+      "gyms": 7,
+      "area": "15,000m",
+      "description": "Experience the true meaning of modern living in this luxurious apartment featuring spacious rooms, elegant finishes, and breathtaking views."
+    },
+    {
+      "id": 8004,
+      "developerId": 8,
+      "sourceProjectId": 804,
+      "title": "Sawary Family Villa",
+      "image": "/images/zone-project-card.png",
+      "units": 50,
+      "gyms": 7,
+      "area": "15,000m",
+      "description": "Experience the true meaning of modern living in this luxurious apartment featuring spacious rooms, elegant finishes, and breathtaking views."
+    },
+    {
+      "id": 8005,
+      "developerId": 8,
+      "sourceProjectId": 805,
+      "title": "Sawary Family Villa",
+      "image": "/images/zone-project-card.png",
+      "units": 50,
+      "gyms": 7,
+      "area": "15,000m",
+      "description": "Experience the true meaning of modern living in this luxurious apartment featuring spacious rooms, elegant finishes, and breathtaking views."
+    },
+    {
+      "id": 9001,
+      "developerId": 9,
+      "sourceProjectId": 101,
+      "title": "Sawary Family Villa",
+      "image": "/images/zone-project-card.png",
+      "units": 50,
+      "gyms": 7,
+      "area": "15,000m",
+      "description": "Experience the true meaning of modern living in this luxurious apartment featuring spacious rooms, elegant finishes, and breathtaking views."
+    },
+    {
+      "id": 9002,
+      "developerId": 9,
+      "sourceProjectId": 102,
+      "title": "Sawary Family Villa",
+      "image": "/images/zone-project-card.png",
+      "units": 50,
+      "gyms": 7,
+      "area": "15,000m",
+      "description": "Experience the true meaning of modern living in this luxurious apartment featuring spacious rooms, elegant finishes, and breathtaking views."
+    },
+    {
+      "id": 9003,
+      "developerId": 9,
+      "sourceProjectId": 103,
+      "title": "Sawary Family Villa",
+      "image": "/images/zone-project-card.png",
+      "units": 50,
+      "gyms": 7,
+      "area": "15,000m",
+      "description": "Experience the true meaning of modern living in this luxurious apartment featuring spacious rooms, elegant finishes, and breathtaking views."
+    },
+    {
+      "id": 9004,
+      "developerId": 9,
+      "sourceProjectId": 104,
+      "title": "Sawary Family Villa",
+      "image": "/images/zone-project-card.png",
+      "units": 50,
+      "gyms": 7,
+      "area": "15,000m",
+      "description": "Experience the true meaning of modern living in this luxurious apartment featuring spacious rooms, elegant finishes, and breathtaking views."
+    },
+    {
+      "id": 9005,
+      "developerId": 9,
+      "sourceProjectId": 105,
+      "title": "Sawary Family Villa",
+      "image": "/images/zone-project-card.png",
+      "units": 50,
+      "gyms": 7,
+      "area": "15,000m",
+      "description": "Experience the true meaning of modern living in this luxurious apartment featuring spacious rooms, elegant finishes, and breathtaking views."
+    }
+  ],
+  "messages": [],
+  "registrations": []
+}
